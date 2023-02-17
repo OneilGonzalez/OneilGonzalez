@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OneilGonzalez
 - 👀 I’m interested in online games, anime, and programming
-- 🌱 I’m currently learning C++, python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ??
 - 📫 How to reach me jakwesoneilgonzalez@gmail.com
 
