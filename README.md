@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OneilGonzalez
 - 👀 I’m interested in online games, anime, and programming
-- 🌱 I’m currently learning Flutter, Angular, and React
-- 💞️ I’m looking to collaborate on ??
+- 🌱 I’m currently learning Flutter, React, and Angular
+- 💞️ I’m looking to collaborate on Mobile and Web Development
 - 📫 How to reach me jakwesoneilgonzalez@gmail.com
 
 <!---
