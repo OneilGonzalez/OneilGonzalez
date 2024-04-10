@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @OneilGonzalez
-- 👀 I’m interested in online games, anime, and programming
-- 🌱 I’m currently learning Flutter, React, React Native, and Kotlin
-- 💞️ I’m looking to collaborate on Mobile and Web Development
-- 📫 How to reach me jakwesoneilgonzalez@gmail.com
+Hi, I’m @jakwesoneil
 
-<!---
-OneilGonzalez/OneilGonzalez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an Information Technology student at Mapúa University, focusing on becoming a Frontend Web Programmer with React and a Mobile Development Programmer using Flutter. I also plan to explore Kotlin and React Native in the near future.
+
